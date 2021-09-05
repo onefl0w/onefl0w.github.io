@@ -48,7 +48,8 @@ a {
 #header {
 	background-color: #eee;
 	clear: both;
-	color: #555;
+	color:  #0f0f0f;
+	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.78em;
 	padding: 0.7ex 0.7ex 0.7ex 0.7em;
 }
