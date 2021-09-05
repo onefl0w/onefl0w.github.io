@@ -146,3 +146,9 @@ html {
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
   .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+  summary {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
