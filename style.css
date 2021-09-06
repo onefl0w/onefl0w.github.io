@@ -152,3 +152,7 @@ h4 {
 .hidden {
 	display: none;
 }
+
+summary {
+	padding-left: 1em;
+}

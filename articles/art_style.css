@@ -151,3 +151,7 @@ html {
     -moz-user-select: none;
     user-select: none;
   }
+
+  #lec_sup li{
+    list-style: square;
+  }
