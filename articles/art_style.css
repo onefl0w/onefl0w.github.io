@@ -126,7 +126,6 @@ html {
   #TOC {
     background: #f9f9f9 none repeat scroll 0 0;
     border: 1px solid #aaa;
-    display: table;
     font-size: 95%;
     margin-bottom: 1em;
     padding: 20px;
@@ -134,7 +133,7 @@ html {
   }
 
   #TOC li {
-    list-style: square;
+    list-style: none;
   }
   #TOC a:not(:hover) {
     text-decoration: none;
