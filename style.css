@@ -65,7 +65,7 @@ summary {
 	user-select: none;
 }
 
-header {
+#header {
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	user-select: none;
