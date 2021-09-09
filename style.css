@@ -59,22 +59,13 @@ a {
 	margin-left: 5px;
 }
 
-summary {
+
+#main p, #main h1, summary, #nav li, #header {
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	user-select: none;
 }
 
-#nav li {
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	user-select: none;
-}
-#header {
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	user-select: none;
-}
 
 h1 {
 	margin: 1em 1ex 0.5ex 0;
