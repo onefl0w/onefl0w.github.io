@@ -65,6 +65,11 @@ summary {
 	user-select: none;
 }
 
+#nav li {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
 #header {
 	-webkit-user-select: none;
 	-moz-user-select: none;
